@@ -31,7 +31,7 @@ from widgets import WidgetRenderer
 # --------------------------------------------------
 # CONFIGURATION
 # --------------------------------------------------
-ACCESS_KEY         = "q4JisBewS45WIcWMor0xG7DvlzEAE7nOS1P1MQSc0SluiqFYz2HO3Q=="
+ACCESS_KEY         = "############################################"
 KEYWORD_PATH       = "dango_en_raspberry-pi_v4_0_0.ppn"
 
 MIC_RATE           = 48000
