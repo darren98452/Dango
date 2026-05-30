@@ -1,0 +1,8 @@
+pvporcupine
+pyaudio
+speechrecognition
+requests
+numpy
+pillow
+sounddevice
+
