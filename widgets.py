@@ -19,7 +19,7 @@ from PIL import Image, ImageDraw, ImageFont
 # --------------------------------------------------
 # CONFIGURATION — set your details here
 # --------------------------------------------------
-OWM_API_KEY = "64eac3e49ca326f2fef2c6a624e15b17"   # get free at openweathermap.org
+OWM_API_KEY = "##################################"   # get free at openweathermap.org
 CITY        = "bangalore"                          # your city
 UNITS       = "metric"                          # "metric" = °C, "imperial" = °F
 WEATHER_REFRESH_INTERVAL = 600                  # seconds (10 min)
